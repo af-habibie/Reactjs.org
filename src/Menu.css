@@ -1,0 +1,30 @@
+.bg-dark-custom {
+    background-color: #20232A !important;
+}
+.input-text-search {
+    background-color: #191919 !important;
+    border: 1px solid #191919 !important;
+    padding-left: 34px !important;
+}
+.input-text-search:focus {
+    background-color: #000000 !important;
+    border: 1px solid #000000 !important;
+    box-shadow: none !important;
+}
+.brand {
+    font-size: 20px !important;
+    font-weight: bold;
+    position: relative;
+    top: 2.2px;
+    color: #61DAFB;
+}
+.navbar-nav a.nav-link {
+    font-size: 20px !important;
+}
+.icon-search {
+    left: 11px;
+    top: 11px;
+}
+.link-github {
+    color: rgba(255,255,255,.75) !important;
+}
